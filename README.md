@@ -1,2 +1,2 @@
 # Homework_1
-WebCourse homework
+WebCourse prvi domaci zadatak
